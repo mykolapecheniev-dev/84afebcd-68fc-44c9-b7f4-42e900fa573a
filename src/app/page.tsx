@@ -71,15 +71,15 @@ export default function LandingPage() {
           imageAlt: "Signature arrangement",
         },
         {
-          imageSrc: "https://pixabay.com/get/ge9e2ec3d9dc3ecaf9dd078c24a9dbdd2d57ac2872e23a2335bea9f70d0338de48380d6a9c2546d63a2f7ab94e21bd6c13166abde66decc5a28de8be712642d5b_1280.jpg",
+          imageSrc: "https://pixabay.com/get/ge9e2ec3d9dc3ecaf9dd078c24a9dbdd2d57ac2872e23a2335bea9f70d0338de48380d6a9c2546d63a2f7ab94e21bd6c13166abde66decc5a28de8be712642d5b_1280.jpg?_wi=1",
           imageAlt: "Peony bouquet",
         },
         {
-          imageSrc: "https://pixabay.com/get/gc051bad48f5ea6df10d287ff34dc2849003f5379c777dae72c5d9042781175ba87be502383d8123736589b046e1215a570ff4a46e6bfa682bd0557080c707eac_1280.jpg",
+          imageSrc: "https://pixabay.com/get/gc051bad48f5ea6df10d287ff34dc2849003f5379c777dae72c5d9042781175ba87be502383d8123736589b046e1215a570ff4a46e6bfa682bd0557080c707eac_1280.jpg?_wi=1",
           imageAlt: "Wildflower arrangement",
         },
         {
-          imageSrc: "https://pixabay.com/get/ga942c59cf5dc8766005680a2efdae9106a4d42a545c1c1bf46e14010b90d524594ea3d6a401daa6df15db8edfaabbe5d1da59edf4449f4090a32384237632478_1280.jpg",
+          imageSrc: "https://pixabay.com/get/ga942c59cf5dc8766005680a2efdae9106a4d42a545c1c1bf46e14010b90d524594ea3d6a401daa6df15db8edfaabbe5d1da59edf4449f4090a32384237632478_1280.jpg?_wi=1",
           imageAlt: "Botanical display",
         },
       ]}
@@ -115,7 +115,7 @@ export default function LandingPage() {
           price: "$85",
           rating: 5,
           reviewCount: "24",
-          imageSrc: "https://pixabay.com/get/ge9e2ec3d9dc3ecaf9dd078c24a9dbdd2d57ac2872e23a2335bea9f70d0338de48380d6a9c2546d63a2f7ab94e21bd6c13166abde66decc5a28de8be712642d5b_1280.jpg",
+          imageSrc: "https://pixabay.com/get/ge9e2ec3d9dc3ecaf9dd078c24a9dbdd2d57ac2872e23a2335bea9f70d0338de48380d6a9c2546d63a2f7ab94e21bd6c13166abde66decc5a28de8be712642d5b_1280.jpg?_wi=2",
         },
         {
           id: "p2",
@@ -124,7 +124,7 @@ export default function LandingPage() {
           price: "$65",
           rating: 5,
           reviewCount: "18",
-          imageSrc: "https://pixabay.com/get/gc051bad48f5ea6df10d287ff34dc2849003f5379c777dae72c5d9042781175ba87be502383d8123736589b046e1215a570ff4a46e6bfa682bd0557080c707eac_1280.jpg",
+          imageSrc: "https://pixabay.com/get/gc051bad48f5ea6df10d287ff34dc2849003f5379c777dae72c5d9042781175ba87be502383d8123736589b046e1215a570ff4a46e6bfa682bd0557080c707eac_1280.jpg?_wi=2",
         },
         {
           id: "p3",
@@ -133,7 +133,7 @@ export default function LandingPage() {
           price: "$55",
           rating: 4,
           reviewCount: "32",
-          imageSrc: "https://pixabay.com/get/ga942c59cf5dc8766005680a2efdae9106a4d42a545c1c1bf46e14010b90d524594ea3d6a401daa6df15db8edfaabbe5d1da59edf4449f4090a32384237632478_1280.jpg",
+          imageSrc: "https://pixabay.com/get/ga942c59cf5dc8766005680a2efdae9106a4d42a545c1c1bf46e14010b90d524594ea3d6a401daa6df15db8edfaabbe5d1da59edf4449f4090a32384237632478_1280.jpg?_wi=2",
         },
       ]}
       title="Signature Arrangements"
@@ -154,7 +154,7 @@ export default function LandingPage() {
           role: "Wedding Client",
           company: "Event Planner",
           rating: 5,
-          imageSrc: "https://pixabay.com/get/g54de791f9333717bd7b8cdfe6729ee17c1049e082989985d9d7ab0743f088863e33b2161173e40737c8994b316227cc0f6a3d0a14a75aadf9ad94c592d11b2b0_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g54de791f9333717bd7b8cdfe6729ee17c1049e082989985d9d7ab0743f088863e33b2161173e40737c8994b316227cc0f6a3d0a14a75aadf9ad94c592d11b2b0_1280.jpg?_wi=1",
         },
         {
           id: "t2",
@@ -186,7 +186,7 @@ export default function LandingPage() {
           role: "Corporate",
           company: "Designer",
           rating: 5,
-          imageSrc: "https://pixabay.com/get/g54de791f9333717bd7b8cdfe6729ee17c1049e082989985d9d7ab0743f088863e33b2161173e40737c8994b316227cc0f6a3d0a14a75aadf9ad94c592d11b2b0_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g54de791f9333717bd7b8cdfe6729ee17c1049e082989985d9d7ab0743f088863e33b2161173e40737c8994b316227cc0f6a3d0a14a75aadf9ad94c592d11b2b0_1280.jpg?_wi=2",
         },
       ]}
       title="Stories in Bloom"
