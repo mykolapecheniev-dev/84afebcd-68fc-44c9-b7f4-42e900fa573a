@@ -104,7 +104,7 @@ export default function LandingPage() {
       testimonials={[
         {
           id: "t1",          name: "Elena R.",          role: "Wedding Client",          company: "Event Planner",          rating: 5,
-          imageSrc: "https://pixabay.com/get/g54de791f9333717bd7b8cdfe6729ee17c1049e082989985d9d7ab0743f088863e33b2161173e40737c8994b316227cc0f6a3d0a14a75aadf9ad94c592d11b2b0_1280.jpg"},
+          imageSrc: "https://pixabay.com/get/g54de791f9333717bd7b8cdfe6729ee17c1049e082989985d9d7ab0743f088863e33b2161173e40737c8994b316227cc0f6a3d0a14a75aadf9ad94c592d11b2b0_1280.jpg?_wi=1"},
         {
           id: "t2",          name: "Marcus S.",          role: "Regular Client",          company: "Business Owner",          rating: 5,
           imageSrc: "https://pixabay.com/get/gfd64f5eeb438311700bf1cde82b9f8046f59b15854dfdddf3dbc766bfe330e2ad66cc10e7fa4dcbc2c3e8af8a476ebca8484d25d63602aaa8a7e5137a910d15e_1280.jpg"},
@@ -116,7 +116,7 @@ export default function LandingPage() {
           imageSrc: "https://pixabay.com/get/ge15c8f6fa5b7943b16a0a72bdb7a763fa6e179755abed3ad504fdc679af64a7c40eead35ece6e8dfef913f0231aadd8a888dd7aa0054d18f8e67146f03125986_1280.jpg"},
         {
           id: "t5",          name: "Amelia W.",          role: "Corporate",          company: "Designer",          rating: 5,
-          imageSrc: "https://pixabay.com/get/g54de791f9333717bd7b8cdfe6729ee17c1049e082989985d9d7ab0743f088863e33b2161173e40737c8994b316227cc0f6a3d0a14a75aadf9ad94c592d11b2b0_1280.jpg"},
+          imageSrc: "https://pixabay.com/get/g54de791f9333717bd7b8cdfe6729ee17c1049e082989985d9d7ab0743f088863e33b2161173e40737c8994b316227cc0f6a3d0a14a75aadf9ad94c592d11b2b0_1280.jpg?_wi=2"},
       ]}
       title="Stories in Bloom"
       description="See why our clients choose Nikla Studio for their special moments."
